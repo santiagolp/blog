@@ -37,8 +37,8 @@ function Bio() {
               Written by <strong>{author}</strong> who lives and works in San
               Francisco building useful things.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              <a href={`https://facebook.com/${social.facebook}`}>
+                You should follow him on facebook
               </a>
             </p>
           </Container>
@@ -61,7 +61,7 @@ const bioQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
+          facebook
         }
       }
     }
