@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-
+  name: sd-blog
+  repo: santiagolp/blog
 media_folder: static/assets
 public_folder: assets
 
