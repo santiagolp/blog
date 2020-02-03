@@ -8,4 +8,4 @@ description: esta es una prueba
 
 
 
-![asd](assets/watches-6.jpg "123")
+![asd](../../static/assets/watches-6.jpg "123")
